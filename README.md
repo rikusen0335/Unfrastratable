@@ -1,2 +1,2 @@
 # Unfrastratable
-A wordpress theme using SPA. Make it faster.
+A simple wordpress theme using SPA for blog. Make it faster.
